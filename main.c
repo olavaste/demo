@@ -2,6 +2,9 @@
 
 int main(){
 	printf("Hello world\n");
-	printf("TESE");
-return 0;
+	printf("...and Mars\n");
+
+	if(1<0){
+		return 1;
+	}
 }
